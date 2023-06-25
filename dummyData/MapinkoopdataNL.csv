@@ -1,0 +1,23 @@
+﻿ID,Voertuigkenmerk,Voertuigprijs,Kilometerstand,Typevoertuig,Bouwjaar,Onderhoudsstatus,Landafkomst,Voertuigmodel,Voertuigafskomt,Datum van waarde,KENTEKEN
+1,Mercedes-Benz ,100 000,500000,Truck,2011,Recente onderhoudsbeurt uitgevoerd in goede staat.,Nederland,Actros 1845,Marktplaats,2023-02-01,ABDC78
+2,Volvo ,90 000,800000,Truck,2012,Binnenkort onderhoud nodig kleine slijtage aan remmen.,Zweden, FH16 750,Truktweedehands,2023-03-12,ZYXW32
+3,Scania R,85 000,300000,Truck,2016,Regelmatig onderhouden enkele lopende reparaties.,Nederland,R450,TrukNL,2023-05-23,PQRS97
+4,MAN ,160000,0,Truck,2020,Nieuw.,Duitsland,TGX 26.500,Jongtruk,2023-01-04,WXYZ54
+5,DAF ,80 000,700000,Truck,2013,Onderhoudsbeurt gepland geen ernstige problemen.,Nederland,XF 480,DafNL,2023-05-05,LMNO23
+6,Iveco ,55 000,800000,Truck,2012,Enkele lopende elektrische storingen algemene staat is goed.,Italië,Stralis NP460,Ivecoroma,2023-03-06,UVWX86
+7,Mercedes-Benz ,77 000,606667,Truck,2015,Recente onderhoudsbeurt uitgevoerd in goede staat.,Nederland,Actros 1846,Marktplaats,2023-12-06,ABCD45
+8,Volvo ,71 857,632381,Truck,2016,Binnenkort onderhoud nodig kleine slijtage aan remmen.,Zweden, FH16 751,Truktweedehands,2023-04-04,YXWV69
+9,Scania R,66 714,658095,Truck,2016,Regelmatig onderhouden enkele lopende reparaties.,Nederland,R451,TrukNL,2023-08-06,MNOP12
+10,MAN ,61 571,683810,Truck,2016,Nieuw.,Duitsland,TGX 26.501,Jongtruk,1-22-2023,STUV76
+11,DAF ,56 429,709524,Truck,2017,Onderhoudsbeurt gepland geen ernstige problemen.,Nederland,XF 481,DafNL,4-66-2023,EFGH89
+12,Iveco ,51 286,735238,Truck,2017,Enkele lopende elektrische storingen algemene staat is goed.,Italië,Stralis NP461,Ivecoroma,2023-07-06,IJKL34
+13,Mercedes-Benz ,46 143,760952,Truck,2017,Recente onderhoudsbeurt uitgevoerd in goede staat.,Nederland,Actros 1847,Marktplaats,2023-01-07,QRST56
+14,Volvo ,41 000,786667,Truck,2018,Binnenkort onderhoud nodig kleine slijtage aan remmen.,Zweden, FH16 752,Truktweedehands,2023-06-06,VWXY98
+15,Scania R,35 857,812381,Truck,2018,Regelmatig onderhouden enkele lopende reparaties.,Nederland,R452,TrukNL,2023-05-07,BCDE21
+16,MAN ,30 714,838095,Truck,2018,Nieuw.,Duitsland,TGX 26.502,Jongtruk,2023-02-02,ZYXW43
+17,DAF ,25 571,863810,Truck,2019,Onderhoudsbeurt gepland geen ernstige problemen.,Nederland,XF 482,DafNL,2023-01-05,UVWX65
+18,Iveco ,20 429,889524,Truck,2019,Enkele lopende elektrische storingen algemene staat is goed.,Italië,Stralis NP462,Ivecoroma,2023-05-07,STUV76
+19,Mercedes-Benz ,15 286,915238,Truck,2019,Recente onderhoudsbeurt uitgevoerd in goede staat.,Italië,Actros 1848,Marktplaats,2023-04-01,IJKL87
+20,Scania R,10 143,940952,Truck,2020,Enkele lopende elektrische storingen algemene staat is goed.,Nederland,Stralis NP462,Ivecoroma,2023-03-25,PQRS32
+21,MAN ,5 000,966667,Truck,2020,Recente onderhoudsbeurt uitgevoerd in goede staat.,Zweden,Actros 1848,Marktplaats,2023-03-02,MNOP54
+22,DAF ,156 543,992381,Truck,2020,Binnenkort onderhoud nodig kleine slijtage aan remmen.,Nederland, FH16 753,Truktweedehands,2023-05-23,EFGH96
